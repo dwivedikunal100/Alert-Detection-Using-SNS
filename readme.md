@@ -1,4 +1,4 @@
-#Earthquake analysis using twitter
+# Earthquake analysis using twitter
 ---
 
 Download repository and extract it.
