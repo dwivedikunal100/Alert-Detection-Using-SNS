@@ -1,0 +1,20 @@
+{
+  "name": "twitter_analysis",
+  "version": "1.0.0",
+  "description": "Analysis of tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweet"
+  ],
+  "author": "Kunal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "node-geocoder": "^3.22.0",
+    "twitter": "^1.7.1"
+  }
+}
