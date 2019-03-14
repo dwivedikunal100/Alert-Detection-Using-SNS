@@ -1,11 +1,11 @@
 var twitter = require("twitter");
 
 var twitter = new twitter({
-  consumer_key: "mOUpwzhjCGYrPpqBL03n8cbtg",
-  consumer_secret: "CFEMDfwkiMnLAO7ofi0ConXlDAmwqUmaAKkx8XQRtfQnMWxI4N",
-  access_token_key: "261608471-ATGdO8ydPJ3l36vMKJgqTSecpoQZsHNIaBbXjJCJ",
-  access_token_secret: "Lwo2SrXGLHapLoXhp3LWiWELpnT1JhPcCEvEgsRmlrkKZ"
-});
+  consumer_key: "*********************",
+  consumer_secret: "**********************************",
+  access_token_key: "*********************************",
+  access_token_secret: "****************"
+});//use twitter keys
 
 var methods = {};
 
