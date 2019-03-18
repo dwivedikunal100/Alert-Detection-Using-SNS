@@ -1,4 +1,4 @@
-# Earthquake analysis using twitter
+# Alert Detection Using Social Networking Sites
 It is a web application to track live tweets/messages from social networking sites and in case of an alert of a natural disaster alerting registered users by sending mails to them based on their relative location with respect to the disaster. Technologies used were NodeJs, Bootstrap, Sqlite.
 
 To run this application
