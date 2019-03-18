@@ -1,10 +1,11 @@
 # Earthquake analysis using twitter
-It is a web application to track live tweets/messages from social networking sites and in case of an alert of a natural disaster alerting registered users by sending mails to them based on their relative location with respect to the disaster. Technologies used were NodeJs, Bootstrap, Sqlite.---
+It is a web application to track live tweets/messages from social networking sites and in case of an alert of a natural disaster alerting registered users by sending mails to them based on their relative location with respect to the disaster. Technologies used were NodeJs, Bootstrap, Sqlite.
 
 To run this application
 You will Google Map API and Twitter API keys which can be created using developers account on Google and Twitter.
 
-Process:
+Process to run the application:
+
 1.Install nodejs and npm
 
 2.Download this repository and extract it.
